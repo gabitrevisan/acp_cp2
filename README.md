@@ -31,6 +31,15 @@ Este sistema de segmentação pode ser aplicado no **Auxílio ao Diagnóstico M�
 
 ---
 
+## ✅ Prova de Execução
+Abaixo, a captura de tela do terminal demonstrando o processamento bem-sucedido de todas as imagens do pipeline:
+
+<p align="center">
+  <img src="imagens/resultado-terminal.png" alt="Resultado do Terminal" width="600px" />
+</p>
+
+---
+
 ## 🛠️ Tecnologias Utilizadas
 - Python 3.x
 - OpenCV (Processamento de Imagem)
